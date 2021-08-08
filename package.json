@@ -1,0 +1,29 @@
+{
+  "name": "up-run-dummy-api",
+  "version": "1.0.0",
+  "description": "Dummy crud API to act as a backend server for frontend apps",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "api",
+    "json",
+    "crud",
+    "restful"
+  ],
+  "author": "UP & RUN LLC",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10",
+    "validator": "^13.6.0"
+  },
+  "engines": {
+    "node": "14.16.0"
+  }
+}

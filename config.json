@@ -1,0 +1,4 @@
+{
+    "DB_URI": "mongodb+srv://Rafayel:Mongodb803080@experimental-cluster.bkxkv.mongodb.net/UPRUNDummyDB?retryWrites=true&w=majority",
+    "PORT": 4000
+}
