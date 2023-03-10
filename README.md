@@ -1,4 +1,4 @@
-# UP & RUN Dummy API
+# Dummy API
 ### Dummy crud API to act as a backend server for frontend apps
 
 <br>
